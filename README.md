@@ -74,5 +74,8 @@ All images are:
 
 The model outperforms VGG16 in localizing anatomical keypoints, ensuring reliable VHS computation. The predicted keypoints closely align with the ground truth across validation samples.
 
+<img width="262" height="279" alt="image" src="https://github.com/user-attachments/assets/0934f29f-ef75-41e4-8450-73960c53852c" />
+
+
 📄 Read the full report:  
 [**HRNet-Based Keypoint Localization for Vertebral Heart Score Prediction in Dogs**](https://www.researchgate.net/publication/386424985_HRNet-Based_Keypoint_Localization_for_Vertebral_Heart_Score_Prediction_in_Dogs)
